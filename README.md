@@ -2,7 +2,7 @@
 **Aspiring Software Engineer | Learning Machine Learning & Data Science | Exploring Backend Development**
 
 - 🌱 **I’m currently learning:** ML with Data science , backend development
-- 👯 **I’m looking to collaborate on:** open internships & projects to improve myself
+- 👯 **I’m looking to collaborate on:** open to internships & projects to improve myself
 - 📫 **How to reach me:** jaygujar120706@gmail.com 
 
 
